@@ -38,3 +38,7 @@ p.lead {
 a {
     color: #0010c2;
 }
+
+.social-icons .social-icon:hover {
+    background-color: #0010c2;
+}
